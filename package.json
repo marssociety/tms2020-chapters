@@ -58,6 +58,7 @@
     "axios": "^0.18.1",
     "gulp-babel": "^8.0.0",
     "gulp-postcss": "^8.0.0",
+    "js-yaml": "^3.13.1",
     "lodash": "^4.17.13",
     "lodash.template": "^4.5.0",
     "tar": "^2.2.2"
